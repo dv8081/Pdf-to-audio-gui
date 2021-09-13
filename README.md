@@ -11,11 +11,17 @@ git clone https://github.com/dv8081/Pdf-to-audio-gui
 
 cd Pdf-to-audio-gui
 
+pip install -r requiremens.txt
+
 python3 Pdf-to-audio-gui
 
 # In Windows
 git clone https://github.com/dv8081/Pdf-to-audio-gui or download it from my github page.
+
 cd Pdf-to-audio-gui
+
+pip install -r requiremens.txt
+
 python Pdf-to-audio-gui
 
 
