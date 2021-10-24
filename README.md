@@ -20,7 +20,7 @@ git clone https://github.com/dv8081/Pdf-to-audio-gui.git or download it from my 
 
 cd Pdf-to-audio-gui
 
-pip install -r requiremens.txt
+pip install -r requirements.txt
 
 python Pdf-to-audio-gui.py
 
