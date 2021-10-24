@@ -56,7 +56,7 @@ def select_file():
 
     filename = fd.askopenfilename(
         title='Open a file',
-        initialdir='~/Documents/java',
+        initialdir='~/',
         filetypes=filetypes)
     # path of the PDF file
     pathofpdf=("Enter the path of file")
